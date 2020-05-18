@@ -9,6 +9,11 @@ def reverse_each_word (sentence)
   end 
  
  def reverse_each_word_collect(sentence)
+ sentence.split.collect do |word|
+ 
+end
+ end
+
    
 
       

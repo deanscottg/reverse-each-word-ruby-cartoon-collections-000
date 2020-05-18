@@ -7,7 +7,9 @@ def reverse_each_word (sentence)
       end
   new_array
   end 
-  
+ 
+ def reverse_each_word_collect(sentence)
+   
 
       
   
